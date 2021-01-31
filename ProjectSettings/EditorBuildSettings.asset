@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Edgar/Examples/MinimapExample/Minimap.unity
     guid: a26a297ba8e62124e9124a4dc91df72e
+  - enabled: 1
+    path: Assets/Edgar/Examples/Platformer1/Platformer1.unity
+    guid: 13f0729b155566840a3fbc59bac101ad
   m_configObjects: {}
